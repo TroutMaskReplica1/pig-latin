@@ -1,0 +1,8 @@
+#result {
+  display: none;
+}
+ body {
+   text-align: center;
+   background-color: rgba(20, 30, 0, 0.2);
+   padding: 1rem;
+ }
